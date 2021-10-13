@@ -1,12 +1,9 @@
-## Hi there 👋
+## LUCIT Development
 
-<!--
+We have several years of experience in developing [automated trading systems](https://www.lucit-development.co/crypto-trading-bot.html) in the financial as well as crypto financial world and skillfully create asynchronous, multithreaded or multiple subprocess algorithms.
 
-**Here are some ideas to get you started:**
+We optimize these systems for your use on servers or the AWS Cloud and can take care of and monitor your infrastructure if desired.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://guides.github.com/features/mastering-markdown/)
--->
+Together with the highest security standards and optimized work processes, we are your reliable partner for the development and deployment of reliable software and infrastructure for automated trading.
+
+Together we will clarify your needs and you will receive a detailed offer - [contact us!](https://www.lucit-development.co/contact.html)
