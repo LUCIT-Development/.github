@@ -1,4 +1,4 @@
-## LUCIT Development
+## LUCIT Systems and Development
 
 We have several years of experience in developing [automated trading systems](https://www.lucit-development.co/crypto-trading-bot.html) in the financial as well as crypto financial world and skillfully create asynchronous, multithreaded or multiple subprocess algorithms.
 
