@@ -1,6 +1,7 @@
+[![LUCIT](https://www.lucit.tech/files/images/logos/LUCIT-LOGO.png)](https://www.lucit.tech)
+
 ## LUCIT Systems and Development
 
-[![LUCIT](https://www.lucit.tech/files/images/logos/LUCIT-LOGO.png)](https://www.lucit.tech)
 
 ***LUCIT*** provides services in [data science](https://www.lucit.tech/data-science.html) and development of [automated trading systems](https://www.lucit.tech/crypto-trading-bot.html) in the crypto-financial world and skillfully create asynchronous, multithreaded and multiple sub-process algorithms.
 
