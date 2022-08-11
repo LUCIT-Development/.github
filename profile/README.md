@@ -7,3 +7,5 @@ Whether a single task, small or large project, we help from the design phase and
 Together with the highest security standards and optimized work processes, we are your reliable partner for the development and deployment of reliable software and infrastructure for automated trading.
 
 Together we will clarify your needs and you will receive a detailed offer - [contact us!](https://www.lucit.tech/contact.html)
+
+[![LUCIT-UBS-Banner](https://raw.githubusercontent.com/lucit-systems-and-development/unicorn-binance-suite/master/images/logo/LUCIT-UBS-Banner-Readme.png)](https://www.lucit.tech/unicorn-binance-suite.html)
