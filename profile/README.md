@@ -9,3 +9,5 @@ Together with the highest security standards and optimized work processes, we ar
 Together we will clarify your needs and you will receive a detailed offer - [contact us!](https://www.lucit.tech/contact.html)
 
 [![LUCIT-UBS-Banner](https://raw.githubusercontent.com/lucit-systems-and-development/unicorn-binance-suite/master/images/logo/LUCIT-UBS-Banner-Readme.png)](https://www.lucit.tech/unicorn-binance-suite.html)
+
+[![Get professional and fast support](https://raw.githubusercontent.com/LUCIT-Systems-and-Development/unicorn-binance-suite/master/images/support/LUCIT-get-professional-and-fast-support.png)](https://shop.lucit.co/products/support)
