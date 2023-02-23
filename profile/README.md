@@ -1,4 +1,4 @@
-[![LUCIT Systems and Development](https://www.lucit.tech/files/images/logos/LUCIT-LOGO.png)](https://www.lucit.tech)
+[![LUCIT Systems and Development](https://raw.githubusercontent.com/LUCIT-Systems-and-Development/.github/main/profile/lucit-tech-banner_github.png)](https://www.lucit.tech)
 
 At ***LUCIT***, we specialize in providing [tailor-made automated trading systems (bots)](https://www.lucit.tech/trading-bots.html) for traders in the crypto and traditional financial markets. Our bots can receive signals from various sources, including TradingView, MetaTrader and Telegram, and can execute trades based on these signals. We also offer [data science](https://www.lucit.tech/data-science.html) services to help traders [analyze their trading data](https://www.lucit.tech/data-science.html).
 
