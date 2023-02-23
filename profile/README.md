@@ -1,10 +1,10 @@
 [![LUCIT Systems and Development](https://www.lucit.tech/files/images/logos/LUCIT-LOGO.png)](https://www.lucit.tech)
 
-***LUCIT*** provides services in [data science](https://www.lucit.tech/data-science.html) and development of [automated trading systems](https://www.lucit.tech/crypto-trading-bot.html) in the traditional and crypto financial world.
+At ***LUCIT***, we specialize in providing [tailor-made automated trading systems (bots)](https://www.lucit.tech/trading-bot.html) for traders in the crypto and traditional financial markets. Our bots can receive signals from various sources, including TradingView, MetaTrader and Telegram, and can execute trades based on these signals. We also offer [data science](https://www.lucit.tech/data-science.html) services to help traders [analyze their trading data](https://www.lucit.tech/data-science.html).
 
-Whether a single task, small or large project, we help from the design phase and optimize these systems for your use on servers or the AWS cloud and, if desired, take over the operation and monitoring of your infrastructure.
+Our team of experienced Python developers works closely with clients from the planning phase through to deployment and operation, ensuring that every client receives a customized solution that meets their unique trading needs. We offer full-service hosting, maintenance, and monitoring solutions, so our clients can focus on their trading strategies while we take care of the technical details.
 
-Together with the highest security standards and optimized work processes, we are your reliable partner for the development and deployment of reliable software and infrastructure for automated trading.
+Our commitment to customer satisfaction is at the heart of everything we do. We pride ourselves on delivering exceptional customer service, and our team is always on hand to provide support and guidance whenever our clients need it. Whether you are an experienced trader or just starting, we are here to help you automate your trading and take your trading strategies to the next level.
 
 Together we will clarify your needs and you will receive a detailed offer - [contact us!](https://www.lucit.tech/contact.html)
 
