@@ -1,6 +1,6 @@
 [![LUCIT Systems and Development](https://www.lucit.tech/files/images/logos/LUCIT-LOGO.png)](https://www.lucit.tech)
 
-At ***LUCIT***, we specialize in providing [tailor-made automated trading systems (bots)](https://www.lucit.tech/trading-bot.html) for traders in the crypto and traditional financial markets. Our bots can receive signals from various sources, including TradingView, MetaTrader and Telegram, and can execute trades based on these signals. We also offer [data science](https://www.lucit.tech/data-science.html) services to help traders [analyze their trading data](https://www.lucit.tech/data-science.html).
+At ***LUCIT***, we specialize in providing [tailor-made automated trading systems (bots)](https://www.lucit.tech/trading-bots.html) for traders in the crypto and traditional financial markets. Our bots can receive signals from various sources, including TradingView, MetaTrader and Telegram, and can execute trades based on these signals. We also offer [data science](https://www.lucit.tech/data-science.html) services to help traders [analyze their trading data](https://www.lucit.tech/data-science.html).
 
 Our team of experienced Python developers works closely with clients from the planning phase through to deployment and operation, ensuring that every client receives a customized solution that meets their unique trading needs. We offer full-service hosting, maintenance, and monitoring solutions, so our clients can focus on their trading strategies while we take care of the technical details.
 
