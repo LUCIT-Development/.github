@@ -10,6 +10,8 @@ Our commitment to customer satisfaction is at the heart of everything we do. We 
 
 Together we will clarify your needs and you will receive a detailed offer - [contact us!](https://www.lucit.tech/contact.html)
 
+Don't miss out on the latest from our company! Follow us on [Medium](https://medium.lucit.tech/) for insightful articles and industry updates.
+
 We hope you are enjoying using our libraries and that they are proving to be useful to you. If you have a moment, we would greatly appreciate it if you could leave us a [review on Google](https://g.page/r/CbfHlcs8BfG8EAg/review). Thank you for your support!
 
 [![LUCIT-UBS-Banner](https://raw.githubusercontent.com/lucit-systems-and-development/unicorn-binance-suite/master/images/logo/LUCIT-UBS-Banner-Readme.png)](https://www.lucit.tech/unicorn-binance-suite.html)
